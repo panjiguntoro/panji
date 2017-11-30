@@ -10,8 +10,8 @@ const delay = require('delay');
 const chalk = require('chalk');
 
 var User = {
-    username: '',
-    password: ''
+    username: 'panjiiguntoro',
+    password: 'bangsadlo12'
 }
 
 const onlyUnique = async function(value, index, self) { 
