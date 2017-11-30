@@ -135,5 +135,5 @@ const Excute = async function(User, TargetUsername, TextComment){
 
 }
 
-const TextComment = "Follback ya';
+const TextComment = "Follback ya";
 Excute(User,TargetUsername,TextComment);
